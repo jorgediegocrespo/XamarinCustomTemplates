@@ -26,7 +26,7 @@
             </Frame>
         </ControlTemplate>
 
-        <ControlTemplate x:Key="s">
+        <ControlTemplate x:Key="InfoViewColumnsTemplate">
             <Frame BackgroundColor="{TemplateBinding FillColor}"
                    BorderColor="{TemplateBinding BorderColor}"
                    CornerRadius="10"
